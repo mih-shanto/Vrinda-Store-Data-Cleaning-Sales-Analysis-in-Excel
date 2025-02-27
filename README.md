@@ -2,7 +2,7 @@
 ## Project Overview
 The Vrinda-Store project focuses on cleaning and analyzing a dirty dataset using Excel. The dataset contains various issues such as missing values, duplicate rows, inconsistent formatting, incorrect data types, outliers, and typographical errors. After cleaning the data, insightful analyses are performed to derive business insights and improve decision-making.
 
-![Project Logo] [http://url/to/img.png](https://github.com/mih-shanto/Vrinda-Store-Data-Cleaning-Sales-Analysis-in-Excel/blob/main/Project%20File/Project%20Image.png)
+![Project Logo](https://github.com/mih-shanto/Vrinda-Store-Data-Cleaning-Sales-Analysis-in-Excel/blob/main/Project%20File/Project%20Image.png)
 
 ## Key Tasks
 	• Handling missing values through imputation or removal.
